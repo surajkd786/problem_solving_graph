@@ -1,0 +1,1 @@
+{"name":"Local: pepcoder_and_reversing","url":"e:\\DsaInJava\\Graph\\pepcoder_and_reversing.java","tests":[{"id":1629698718309,"input":"7 7\n1 2 \n3 2\n3 4\n7 4\n6 2\n5 6\n7 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\pepcoder_and_reversing.java","group":"local","local":true}

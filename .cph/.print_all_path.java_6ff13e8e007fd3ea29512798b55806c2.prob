@@ -1,0 +1,1 @@
+{"name":"Local: print_all_path","url":"e:\\DsaInJava\\Graph\\print_all_path.java","tests":[{"id":1628833441943,"input":"7\n8\n0 1 10\n1 2 10\n2 3 10\n0 3 10\n3 4 10\n4 5 10\n5 6 10\n4 6 10\n0\n6","output":"0123456\n012346\n03456\n0346"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\print_all_path.java","group":"local","local":true}

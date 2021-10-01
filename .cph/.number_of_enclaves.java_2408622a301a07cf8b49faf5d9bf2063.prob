@@ -1,0 +1,1 @@
+{"name":"Local: number_of_enclaves","url":"e:\\DsaInJava\\Graph\\number_of_enclaves.java","tests":[{"id":1631868067205,"input":"4 4\n0 0 0 0\n1 0 1 0\n0 1 1 0\n0 0 0 0","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\number_of_enclaves.java","group":"local","local":true}

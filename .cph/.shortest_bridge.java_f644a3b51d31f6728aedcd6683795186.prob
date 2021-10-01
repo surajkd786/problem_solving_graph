@@ -1,0 +1,1 @@
+{"name":"Local: shortest_bridge","url":"e:\\DsaInJava\\Graph\\shortest_bridge.java","tests":[{"id":1632042509084,"input":"3\n0 1 0\n0 0 0\n1 1 1","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\shortest_bridge.java","group":"local","local":true}

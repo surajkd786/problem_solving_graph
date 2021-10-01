@@ -1,0 +1,1 @@
+{"name":"Local: perfect_friend","url":"e:\\DsaInJava\\Graph\\perfect_friend.java","tests":[{"id":1629001142027,"input":"7\n5\n0 1\n2 3\n4 5\n5 6\n4 6","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\perfect_friend.java","group":"local","local":true}

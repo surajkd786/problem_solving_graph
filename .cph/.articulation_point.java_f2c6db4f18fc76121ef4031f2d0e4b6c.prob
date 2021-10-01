@@ -1,0 +1,1 @@
+{"name":"Local: articulation_point","url":"e:\\DsaInJava\\Graph\\articulation_point.java","tests":[{"id":1632213835607,"input":"5 5\n1 2\n1 3\n3 2\n3 4\n5 4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\articulation_point.java","group":"local","local":true}

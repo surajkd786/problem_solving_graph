@@ -1,0 +1,1 @@
+{"name":"Local: BFS","url":"e:\\DsaInJava\\Graph\\BFS.java","tests":[{"id":1629444437955,"input":"7\n8\n0 1 10\n1 2 10\n2 3 10\n0 3 10\n3 4 10\n4 5 10\n5 6 10\n4 6 10\n2","output":"2@2\n1@21\n3@23\n0@210\n4@234\n5@2345\n6@2346"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\BFS.java","group":"local","local":true}

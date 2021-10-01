@@ -1,0 +1,1 @@
+{"name":"Local: is_graph_connected","url":"e:\\DsaInJava\\Graph\\is_graph_connected.java","tests":[{"id":1628927780650,"input":"7\n5\n0 1 10\n2 3 10\n4 5 10\n5 6 10\n4 6 10","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\is_graph_connected.java","group":"local","local":true}

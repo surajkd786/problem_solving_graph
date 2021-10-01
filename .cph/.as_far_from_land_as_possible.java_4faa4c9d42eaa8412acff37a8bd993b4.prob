@@ -1,0 +1,1 @@
+{"name":"Local: as_far_from_land_as_possible","url":"e:\\DsaInJava\\Graph\\as_far_from_land_as_possible.java","tests":[{"id":1632038197757,"input":"3\n0 0 0\n0 1 1\n1 1 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\as_far_from_land_as_possible.java","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: is_graph_cyclic","url":"e:\\DsaInJava\\Graph\\is_graph_cyclic.java","tests":[{"id":1629451464186,"input":"7\n6\n0 1 10\n1 2 10\n2 3 10\n3 4 10\n4 5 10\n5 6 10","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\is_graph_cyclic.java","group":"local","local":true}

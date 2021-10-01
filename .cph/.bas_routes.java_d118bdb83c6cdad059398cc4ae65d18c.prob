@@ -1,0 +1,1 @@
+{"name":"Local: bas_routes","url":"e:\\DsaInJava\\Graph\\bas_routes.java","tests":[{"id":1632453917819,"input":"2\n3\n1 2 7\n3 6 7\n1 6","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\DsaInJava\\Graph\\bas_routes.java","group":"local","local":true}
